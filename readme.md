@@ -1,3 +1,3 @@
 # Y. Lixaerde ☢
 
-Teaching code
+Teaching code : Shell, Git, GitHub, Markdown, Python, HTML, CSS 🤖👾🐱‍👤🐍
