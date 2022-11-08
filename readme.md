@@ -1,3 +1,3 @@
-# Hi there ☢
+# Y. Lixaerde ☢
 
-Code for my classes
+Teaching code
